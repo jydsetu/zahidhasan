@@ -1,0 +1,30 @@
+#manuside {
+position:absolute;
+width:30%;
+height:100%;
+text-align:center;
+}
+#page {
+position:absolute;
+width:70%;
+right:0;
+height:100%;
+background-color:fuchsia;
+}
+p {
+padding:7px;
+}
+#footer {
+margin-bottom:0;
+}
+#oh {
+position:fixed;
+bottom:0;
+height:50px;
+text-align:center;
+width:100%;
+}
+#kkk {
+height:50px;
+text-align:center;
+}
